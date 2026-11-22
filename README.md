@@ -3,7 +3,7 @@
 PhD student in Public Policy (Economics track) at Cornell University, working in labor and health economics, applied causal inference, and machine learning. Previously a research analyst at the Federal Reserve Bank of Philadelphia.
 
 - Website: [ghbutler.github.io/website](https://ghbutler.github.io/website/)
-- CV: [October 2026](https://ghbutler.github.io/website/cv.html)
+- CV: [ghbutler.github.io/website/cv.html](https://ghbutler.github.io/website/cv.html)
 
 ## Selected repositories
 
