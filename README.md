@@ -1,16 +1,13 @@
-## Hi there 👋
+# Gabriel Butler
 
-<!--
-**ghbutler/ghbutler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+PhD student in Public Policy (Economics track) at Cornell University, working in labor and health economics, applied causal inference, and machine learning. Previously a research analyst at the Federal Reserve Bank of Philadelphia.
 
-Here are some ideas to get you started:
+- Website: [ghbutler.github.io/website](https://ghbutler.github.io/website/)
+- CV: [October 2026](https://ghbutler.github.io/website/cv.html)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected repositories
+
+- [single-lead-ecg-mi](https://github.com/ghbutler/single-lead-ecg-mi): detecting prior myocardial infarction from a single ECG lead, with cross-population transfer (Germany to China) and on-device deployment. CS 5782, Spring 2026.
+- [ECON41](https://github.com/ghbutler/ECON41): R lab manual for an introductory statistics course (2019), published as [ECON 41 Labs](https://bookdown.org/gabriel_butler/ECON41Labs/).
+
+**Tools:** R, Python, Stata
